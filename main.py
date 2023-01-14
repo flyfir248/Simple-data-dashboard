@@ -37,11 +37,3 @@ if __name__ == '__main__':
     app.run_server(debug=True)
 
 
-"""
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/flyfir248/Simple-data-dashboard.git
-git push -u origin main
-"""
